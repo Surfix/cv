@@ -1,0 +1,137 @@
+.top-container {
+  /* background-color: #E4F9F5; */
+  padding-top: 100px;
+  position: relative;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  /* line-height: 2; */
+  margin: 20px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  padding-top: 30px;
+
+}
+
+h2{
+  font-weight: normal;
+  color: #66BFBF;
+  font-family: 'Montserrat', cursive;
+  font-size: 2.1rem;
+  margin: 15px auto 15px auto;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', cursive;
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.middle-container {
+  margin: 100px 0;
+
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+/* .bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+} */
+.profile{
+  background-color: #E4F9F5;
+  padding: 30px 0;
+}
+.About-Me{
+  width: 90%;
+  margin: auto;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  width: 140px;
+  height:120px;
+}
+.earth-day{
+  width: 350px;
+  height:350px;
+}
+.profile-pics{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.skills-image-1{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+.skills-image-2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+p{
+  line-height: 2;
+}
+
+hr{
+  border: dotted #9be3de 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 10px auto;
+}
+.bottom-container a{
+  color: #11999E;
+  font-family: 'Merriweather', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.bottom-container a:hover{
+  color: #EAF6F6;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.myButton {
+	background-color:#11cdd4;
+	border-radius:9px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:17px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#30e3cb;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
