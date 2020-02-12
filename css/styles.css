@@ -76,6 +76,12 @@ body {
   margin: 100px auto 100px auto;
   text-align: left;
 }
+
+.event-row{
+  width: 70%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
 .skills-image-1{
   width: 15%;
   float:left;
